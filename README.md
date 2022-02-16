@@ -9,8 +9,8 @@ when your code or computer is not working, not by email, not by Slack pm's. Just
 
 I migh be slow to respond sometimes, don't worry I'm just lazy, and forget to check my notifications.
 
-- 🔭 I’m currently working on PHP projects, and my own nerves
-- 🌱 I’m currently learning a lot
+- 🔭 I’m currently working on PHP projects, and some philosophy 
+- 🌱 I’m currently learning about classic mensware
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: When I got started I thought SQL table's related to HTML 😳 
 
