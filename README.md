@@ -4,13 +4,13 @@ I'm Sebastiaan Stok, from the Netherlands. You might know me from the Symfony co
 I have been building websites since 2001, and started using PHP in 2003-ish.
 Yes that includes IE6 and Flash. Oh God the horror!
 
-PS. I am NOT looking for a job, so please don't spam me with job offers thank you. Also don't contact me personally
+PS. I am NOT looking for a job at the moment, so please don't spam me with job offers thank you. Also don't contact me personally
 when your code or computer is not working, not by email, not by Slack pm's. Just don't, OK?
 
-I migh be slow to respond sometimes, don't worry I'm just lazy, and forget to check my notifications.
+I migh be slow to respond sometimes.
 
 - 🔭 I’m currently working on PHP projects, and some philosophy 
-- 🌱 I’m currently learning about classic mensware
+- 🌱 I’m currently learning about self-improvement
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: When I got started I thought SQL table's related to HTML 😳 
 
