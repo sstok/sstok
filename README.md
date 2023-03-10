@@ -11,7 +11,6 @@ I migh be slow to respond sometimes.
 
 - 🔭 I’m currently working on PHP projects, and some philosophy 
 - 🌱 I’m currently learning about self-improvement
-- 😄 Pronouns: He/him
 - ⚡ Fun fact: When I got started I thought SQL table's related to HTML 😳 
 
 <!--
