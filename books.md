@@ -17,6 +17,7 @@ _In alphabetic order._
 | Everything is F*cked                    | Mark Manson
 | Head First Design Patterns              | O'Reilly
 | How to Not Die Alone                    | Logan Ury
+| How To Win Friends And Influence People | Dale Carnegie
 | Living Nonviolent Communication         | Marshall Rosenberg Phd
 | The Subtle Art of Not Giving a F*ck     | Mark Manson
 
