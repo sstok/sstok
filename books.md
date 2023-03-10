@@ -3,8 +3,6 @@
 
 _In alphabetic order._
 
-## Read
-
 | Title                                   | Author
 | --------------------------------------- | ---- |
 | 12 Rules for Life: An Antidote to Chaos | Jordan B. Peterson
