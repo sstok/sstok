@@ -20,6 +20,8 @@ _In alphabetic order._
 | How To Win Friends And Influence People | Dale Carnegie
 | Living Nonviolent Communication         | Marshall Rosenberg Phd
 | Marie Kondo's Kurashi at Home           | Marie Kondo
+| No More Mr Nice Guy                     | Robert A. Glover Phd
+| The Power of Now                        | Eckhart Tolle
 | The Subtle Art of Not Giving a F\*ck    | Mark Manson
 
 I'm especially interested in psychology, philosophy, and software development quality.
