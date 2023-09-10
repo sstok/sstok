@@ -9,7 +9,8 @@ when your code or computer is not working, not by email, not by Slack pm's. Just
 
 I migh be slow to respond sometimes.
 
-- 🔭 I’m currently working on PHP projects, and some philosophy 
+- 🔭 I’m currently working on PHP projects, and some philosophy
+- 📚 I have read a good number of [books](books.md)
 - 🌱 I’m currently learning about self-improvement
 - ⚡ Fun fact: When I got started I thought SQL table's related to HTML 😳 
 
