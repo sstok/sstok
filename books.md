@@ -7,7 +7,6 @@ _In alphabetic order._
 
 | Title                                             | Author                 |
 |---------------------------------------------------|------------------------|
-
 | Clean Code                                        | Robert C Martin        |
 | Domain Driven Design                              | Eric Evans             |
 | Head First Design Patterns                        | O'Reilly               |
