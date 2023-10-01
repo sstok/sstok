@@ -22,14 +22,14 @@ _In alphabetic order._
 | Can't Hurt Me: Master Your Mind and Defy the Odds | David Goggins          |
 | Discipline Equals Freedom                         | Jocko Willink          |
 | Dress Like a Man                                  | Antonio Centeno        |
-| Ego Is the Enemy                                  | Ryan Holida            |
+| Ego Is the Enemy                                  | Ryan Holiday           |
 | Everything is F\*cked                             | Mark Manson            |
 | How to Not Die Alone                              | Logan Ury              |
 | How To Win Friends And Influence People           | Dale Carnegie          |
 | Living Nonviolent Communication                   | Marshall Rosenberg Phd |
 | Marie Kondo's Kurashi at Home                     | Marie Kondo            |
 | No More Mr Nice Guy                               | Robert A. Glover Phd   |
-| The Man's Guide to Women                          | John M. Gottman Ph.d.  |
+| The Man's Guide to Women                          | John M. Gottman Phd    |
 | The Power of Now                                  | Eckhart Tolle          |
 | The Subtle Art of Not Giving a F\*ck              | Mark Manson            |
 
