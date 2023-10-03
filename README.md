@@ -11,7 +11,6 @@ I migh be slow to respond sometimes.
 
 - 🔭 I’m currently working on [HubKit](https://github.com/park-manager/hubkit)
 - 📚 I have read a good number of [books](books.md)
-<!-- - 🌱 I’m currently learning about self-improvement -->
 - ⚡ Fun fact: When I got started I thought SQL table's related to HTML 😳 
 
 <!--
