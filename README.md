@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there 👋🏼
 
 I'm Sebastiaan Stok, from the Netherlands. You might know me from the Symfony community,
-I have been building websites since 2001, and started using PHP in 2003-ish.
+I have been building websites since 2001, and started using PHP in 2003-ish (20+ years now).
 Yes that includes IE6 and Flash. Oh God the horror!
 
 PS. I am NOT looking for a job at the moment, so please don't spam me with job offers thank you. Also don't contact me personally
