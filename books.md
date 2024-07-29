@@ -29,6 +29,7 @@ _In alphabetic order._
 | Discipline Equals Freedom                         | Jocko Willink                 |
 | Dress Like a Man                                  | Antonio Centeno               |
 | Ego Is the Enemy                                  | Ryan Holiday                  |
+| Elements of Style                                 | William I. Strunk E. B. White |
 | Everything is F\*cked                             | Mark Manson                   |
 | Grit                                              | Angela Duckworth              |
 | How To Be A 3% Man                                | Corey Wayne                   |
@@ -45,4 +46,3 @@ _In alphabetic order._
 | The Power of Now                                  | Eckhart Tolle                 |
 | The Subtle Art of Not Giving a F\*ck              | Mark Manson                   |
 | The Way of the Superior Man                       | David Deida                   |
-| Elements of Style                                 | William I. Strunk E. B. White |
