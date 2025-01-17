@@ -11,6 +11,7 @@ I migh be slow to respond sometimes.
 
 - 🔭 I’m currently working on PHP projects, and some philosophy 
 <!-- - 🌱 I’m currently learning about self-improvement -->
+- 🔭 I’m currently working on <!-- [HubKit](https://github.com/park-manager/hubkit) --> [Rollerworks Search](https://github.com/rollerworks/search) and [Lifthill](https://github.com/lifthill)
 - ⚡ Fun fact: When I got started I thought SQL table's related to HTML 😳 
 
 <!--
